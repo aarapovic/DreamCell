@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b087f6a45194ef146b955eb9d5229a4a, type: 3}
+  m_Name: SmallKey
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: c8409c052df30fd4cb2b97d7349e2215, type: 3}
+  itemDescription: "Mali klju\u010D! Mo\u017Eda s njim mogu u Za\u010Daranu \u0161pilju"
+  isKey: 1
